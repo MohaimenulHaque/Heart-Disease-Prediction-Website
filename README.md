@@ -6,19 +6,19 @@ Heart disease is one of the leading causes of death worldwide. Therefore, accura
 
 # Predicted heart disease using various machine learning algorithms:
 • Logistic Regression (LR) <br>
-• Naive Bayes (NB)
-• Support Vector Machine (SVM)
-• k-Nearest Neighbors (KNN)
-• Artificial Neural Network (ANN)
-• Convolutional Neural Network (CNN) 
+• Naive Bayes (NB) <br>
+• Support Vector Machine (SVM) <br>
+• k-Nearest Neighbors (KNN) <br>
+• Artificial Neural Network (ANN) <br>
+• Convolutional Neural Network (CNN)  <br>
 
 # Achieved impressive testing accuracy:
-• ANN-based model: Approximately 98.54%
-• Second-best model: CNN with an accuracy of 96.58%
+• ANN-based model: Approximately 98.54% <br>
+• Second-best model: CNN with an accuracy of 96.58% <br>
 
 # Utilized Boruta feature selection technique:
-• Reduced features from 13 to 10, a 15.38% reduction.
-• Maintained ANN model accuracy at 98.54%.
+• Reduced features from 13 to 10, a 15.38% reduction. <br>
+• Maintained ANN model accuracy at 98.54%. <br>
 
 # Output
 ![Project Screenshot](./1.png)
